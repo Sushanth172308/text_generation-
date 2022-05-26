@@ -1,1 +1,1 @@
-
+Text Generation project details
